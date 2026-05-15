@@ -13,18 +13,23 @@ I connect systems, people, and outcomes -- with a bias toward shipping things th
 
 ### Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshbo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nageshbo&theme=default&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nageshbo&theme=default&hide_border=true" 
+  alt="GitHub Streak" height="165">
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshbo&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="150">
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nageshbo&theme=default"
+   alt="Contribution Graph" width="100%">
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshbo&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" height="300">
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nageshbo&theme=default" 
+  alt="GitHub Stats" height="165">
+    <img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nageshbo&theme=default" 
+  alt="Top Languages" height="165">
+  </p>
 
 ### Projects
 
