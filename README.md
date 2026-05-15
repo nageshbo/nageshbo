@@ -9,6 +9,7 @@ I connect systems, people, and outcomes -- with a bias toward shipping things th
 - AI agents for support ticket triage and investigation
 - Integration tooling for Shipping Team
 - Developer productivity dashboards and automation
+- Building websites for businesses
 
 ### Activity
 
