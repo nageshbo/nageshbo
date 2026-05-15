@@ -2,7 +2,7 @@
 
 Solutions Architect at Amazon | Integration Engineering | AI Tooling Builder
 
-I connect systems, people, and outcomes — with a bias toward shipping things that work.
+I connect systems, people, and outcomes -- with a bias toward shipping things that work.
 
 ### What I'm building
 
