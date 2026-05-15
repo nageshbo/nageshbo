@@ -7,8 +7,7 @@ I connect systems, people, and outcomes -- with a bias toward shipping things th
 ### What I'm building
 
 - AI agents for support ticket triage and investigation
-- MCP servers bridging Claude with enterprise observability systems
-- Integration tooling for Amazon Shipping (EU carrier onboarding, D2C)
+- Integration tooling for Shipping Team
 - Developer productivity dashboards and automation
 
 ### Activity
